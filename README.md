@@ -13,6 +13,7 @@ This project implements a Fashion Recommendation System that leverages computer 
 
 This project demonstrates the application of advanced machine learning techniques in fashion retail, providing personalized recommendations that enhance the shopping experience.
 
+## Results
 
 Here are some examples of recommended items using this model:
 
